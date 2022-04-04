@@ -1,0 +1,23 @@
+{
+  "name": "ex10-at",
+  "version": "0.0.1",
+  "description": "O código do ex 10 da AT do aloísio ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/habdig7oficial/AT-LPI.git"
+  },
+  "author": "Maria Clara, Julie Sanday, Mateus Vieira",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/habdig7oficial/AT-LPI/issues"
+  },
+  "homepage": "https://github.com/habdig7oficial/AT-LPI#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.3"
+  }
+}
