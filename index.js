@@ -8,8 +8,5 @@ app.listen(porta, function () {
     console.log(`Servidor rodando em http://localhost:${porta}`)
 })
 
-
-/*Importando a Rota manualmente */
-
-let index = require("./routes/index.js")(app)
+/*Rota Importada automaticamente */
 
