@@ -1,5 +1,5 @@
 module.exports = function (app) {
-    app.get("/",function(req,res) {
+    app.get("/blog",function(req,res) {
         res.render("blog.ejs")
     })
 }
